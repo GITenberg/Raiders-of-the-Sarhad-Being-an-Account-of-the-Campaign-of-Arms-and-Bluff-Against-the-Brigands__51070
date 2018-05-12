@@ -1,10 +1,16 @@
 _repo: Raiders-of-the-Sarhad-Being-an-Account-of-the-Campaign-of-Arms-and-Bluff-Against-the-Brigands__51070
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 51070-h/images/cover.jpg
 creator:
   author:
     agent_name: Dyer, R. E. H. (Reginald Edward Harry)
     gutenberg_agent_id: '46227'
     url: http://www.gutenberg.org/2009/agents/46227
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/51070#Raiders-of-the-Sarhad-Being-an-Account-of-the-Campaign-of-Arms-and-Bluff-Against-the-Brigands_
 gutenberg_issued: '2016-01-29'
 gutenberg_type: Text
 identifiers:
