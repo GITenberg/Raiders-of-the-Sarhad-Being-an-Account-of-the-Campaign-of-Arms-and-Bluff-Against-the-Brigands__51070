@@ -19,6 +19,8 @@ language: en
 publisher: Project Gutenberg
 rights: Public domain in the USA.
 rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
 title: 'Raiders of the Sarhad
 
   Being an Account of the Campaign of Arms and Bluff Against the Brigands of the Persian-Baluchi
